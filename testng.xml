@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="School">
+  <test name="PrimarySchool">
+    <classes>
+      <class name="ksrtc.bmtc.lkg"/>
+      <class name="ksrtc.bmtc.ukg"/>
+    </classes>
+  </test> 
+  
+  <test name="Highschool">
+  <classes>
+  <class name="ksrtc.bmtc.firstStandard"/>
+  <class name="ksrtc.bmtc.secondStandard"/>
+  <class name="ksrtc.bmtc.thirdStandard"/>
+  
+  </classes>
+  </test>
+</suite>

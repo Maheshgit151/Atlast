@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="School" duration-ms="132" started-at="2020-08-14T11:00:06Z" finished-at="2020-08-14T11:00:06Z">
+    <groups>
+    </groups>
+    <test name="PrimarySchool" duration-ms="58" started-at="2020-08-14T11:00:06Z" finished-at="2020-08-14T11:00:06Z">
+      <class name="ksrtc.bmtc.ukg">
+        <test-method status="PASS" signature="ukgmaths()[pri:0, instance:ksrtc.bmtc.ukg@64616ca2]" name="ukgmaths" duration-ms="1" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ukgmaths -->
+        <test-method status="PASS" signature="ukgscience()[pri:0, instance:ksrtc.bmtc.ukg@64616ca2]" name="ukgscience" duration-ms="2" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ukgscience -->
+      </class> <!-- ksrtc.bmtc.ukg -->
+      <class name="ksrtc.bmtc.lkg">
+        <test-method status="PASS" signature="lkgalphabets()[pri:0, instance:ksrtc.bmtc.lkg@26ba2a48]" name="lkgalphabets" duration-ms="9" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lkgalphabets -->
+        <test-method status="PASS" signature="lkgmaths()[pri:0, instance:ksrtc.bmtc.lkg@26ba2a48]" name="lkgmaths" duration-ms="1" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lkgmaths -->
+      </class> <!-- ksrtc.bmtc.lkg -->
+    </test> <!-- PrimarySchool -->
+    <test name="Highschool" duration-ms="10" started-at="2020-08-14T11:00:06Z" finished-at="2020-08-14T11:00:06Z">
+      <class name="ksrtc.bmtc.secondStandard">
+        <test-method status="PASS" signature="secondlabs()[pri:0, instance:ksrtc.bmtc.secondStandard@3a03464]" name="secondlabs" duration-ms="1" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondlabs -->
+        <test-method status="PASS" signature="secondtourism()[pri:0, instance:ksrtc.bmtc.secondStandard@3a03464]" name="secondtourism" duration-ms="1" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtourism -->
+      </class> <!-- ksrtc.bmtc.secondStandard -->
+      <class name="ksrtc.bmtc.thirdStandard">
+        <test-method status="PASS" signature="thirdhistory()[pri:0, instance:ksrtc.bmtc.thirdStandard@2d3fcdbd]" name="thirdhistory" duration-ms="1" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdhistory -->
+        <test-method status="PASS" signature="thirdmoral()[pri:0, instance:ksrtc.bmtc.thirdStandard@2d3fcdbd]" name="thirdmoral" duration-ms="0" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdmoral -->
+        <test-method status="PASS" signature="thirdpolitics()[pri:0, instance:ksrtc.bmtc.thirdStandard@2d3fcdbd]" name="thirdpolitics" duration-ms="0" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdpolitics -->
+      </class> <!-- ksrtc.bmtc.thirdStandard -->
+      <class name="ksrtc.bmtc.firstStandard">
+        <test-method status="PASS" signature="firstcomputers()[pri:0, instance:ksrtc.bmtc.firstStandard@4909b8da]" name="firstcomputers" duration-ms="0" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstcomputers -->
+        <test-method status="PASS" signature="firstsports()[pri:0, instance:ksrtc.bmtc.firstStandard@4909b8da]" name="firstsports" duration-ms="0" started-at="2020-08-14T16:30:06Z" finished-at="2020-08-14T16:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstsports -->
+      </class> <!-- ksrtc.bmtc.firstStandard -->
+    </test> <!-- Highschool -->
+  </suite> <!-- School -->
+</testng-results>
